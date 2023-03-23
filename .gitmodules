@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DiversificationR"]
+	path = DiversificationR
+	url = https://github.com/cran/DiversificationR
+	shallow = true
+	registered = true
+[submodule "SystemicR"]
+	path = SystemicR
+	url = https://github.com/cran/SystemicR
+	shallow = true
+	registered = true
